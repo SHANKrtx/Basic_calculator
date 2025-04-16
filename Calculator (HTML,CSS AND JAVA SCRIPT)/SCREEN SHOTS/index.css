@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(175, 175, 169);
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#bo {
+
+    border: solid black 1px;
+    padding: 5px;
+    border-radius: 2px;
+    color: rgb(119, 122, 122);
+    width: 224px;
+    background-color: rgba(15, 255, 255, 0.688);
+    box-shadow: black 5px 5px 5px;
+    text-align: center;
+   
+    
+
+}
+
+.buttzy {
+    border: solid 1px;
+    border-radius: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    background-color: aqua;
+    box-shadow: black 3px 3px 3px;
+}
+
+.buttzy {
+    
+}
